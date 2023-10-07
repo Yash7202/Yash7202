@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash7202
 - 👀 I’m interested in coding,cycling,animation etc..
 - 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any web/app based project. 
 - 📫 How to reach me (ashs3495@gmail.com)
 
 <!---
